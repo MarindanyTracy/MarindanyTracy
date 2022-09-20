@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/manuzcheruz">
+<img align="right" width="410"  src="https://github-readme-stats.vercel.app/api?username=MarindanyTracy&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="MarindanyTracy" />
+</a>
+</p>
 
-<!--
-**MarindanyTracy/MarindanyTracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Tracy Marindany 👋
 
-Here are some ideas to get you started:
+### Connect with me below:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://www.linkedin.com/in/tracy-marindany-047b07250/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+</p>
+
+* 📱 Software engineer working with Javascript, Html5 and css3 to build web apps with impeccable user experience.
+* 💻 Enjoys sharing my tech experience and contributing to open source projects.
+* 🇰🇪 From [Nakuru, KE]().
