@@ -10,6 +10,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tracy-marindany-047b07250/">
+<a href="mailto:marindanytracy0@gmail.com">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 </p>
 
